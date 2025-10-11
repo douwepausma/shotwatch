@@ -8,4 +8,18 @@ Many times I've either forgot to start counting our lost count (counting till 20
 ## How does it work?
 The Shotwatch is quite simple and consists out of only 2 components, the screen and the logic board. The logic board is hooked up in series with two wires behind the brewing switch, this turns the Shotwatch on and automatically starts counting. The number is displayed on a small OLED screen connected to the logic board. Logic board is an Arduino Pro Micro, and powered with current directly coming via the brewing switch itself. GAGGIA Classic Pro's internals are all 230 AC current, so the I created a pcb where the logic board is mounted onto that houses a transformer to get the appropriate volts and wattage.
 
-## Build guide
+## Bill of materials
+In addition to the 3 printed parts and the Shotwatch PCB, the following parts are required. You can find all the parts below on AliExpress. Concerning the Shotwatch PCB, you can get this manufactured at PCBWay with the gerber files. And you can print the STL files for the case yourself, or find a place where you can get them printed.
+
+|Part|Amount|
+|----|------|
+|HLK-10M05(10W 5V)|1x|
+|Arduino Pro Micro|1x|
+|Header pins 2x12|2x|
+|SSD1315 Oled screen|1x|
+|4pin JST female connector|1x|
+|4pin JST male connector|2x|
+|KF128 5.08MM pitch, 2 port screw terminal|1x|
+|30cm 4 wire ribbon cable|1x|
+|30cm 18 AWG cable|2x|
+|Piggyback connecter (with insulation)|2x|
