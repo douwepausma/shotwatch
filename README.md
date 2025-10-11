@@ -23,3 +23,6 @@ In addition to the 3 printed parts and the Shotwatch PCB, the following parts ar
 |30cm 4 wire ribbon cable|1x|
 |30cm 18 AWG cable|2x|
 |Piggyback connecter (with insulation)|2x|
+
+## Assembly
+https://github.com/user-attachments/assets/8fb99642-29bd-4e3d-afc3-6cd245b8583b
