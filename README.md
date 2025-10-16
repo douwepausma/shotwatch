@@ -26,3 +26,7 @@ In addition to the 3 printed parts and the Shotwatch PCB, the following parts ar
 
 ## Assembly
 https://github.com/user-attachments/assets/8fb99642-29bd-4e3d-afc3-6cd245b8583b
+
+## Shotwatch in action
+https://github.com/user-attachments/assets/95962a83-e972-49d3-940f-4a79777042f4
+
